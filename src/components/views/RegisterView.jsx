@@ -4,7 +4,11 @@ import { authOperations } from '../../redux/auth';
 
 const styles = {
   form: {
-    width: 320,
+    width: 320, 
+      marginLeft: 'auto',
+    marginRight: 'auto',
+ 
+
   },
   label: {
     display: 'flex',
